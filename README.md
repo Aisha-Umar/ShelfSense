@@ -29,8 +29,6 @@ Usage:
  - Not only can you manage your own library, but you can also view your friends'        libraries, making it easier to share and discover new books.
  - Search for specific titles or authors within your collection.
 
-- Not only can you manage your own library, but you can also view your friends' libraries, making it easier to share and discover new books.
-
 Technologies Used:
 - **JavaScript**: Handles the logic and interaction of the application, utilizing Object-Oriented Programming (OOP) principles for a modular and maintainable codebase.
 - **HTML/CSS**: Provides the structure and styling of the web pages, ensuring a clean and user-friendly interface.
