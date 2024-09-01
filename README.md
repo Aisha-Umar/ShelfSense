@@ -15,7 +15,7 @@ Getting Started
 To get started with this project, simply clone the repository and open the index.html file in your browser.
 
 bash
-git clone https://github.com/your-username/library-management.git
+git clone https://github.com/Aisha-Umar/ShelfSense.git
 cd library-management
 
 Usage:
