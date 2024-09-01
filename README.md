@@ -1,3 +1,6 @@
+![Library Management Screenshot](images/library.gif)
+
+
 Library Management Made Easy
 Overview
 
