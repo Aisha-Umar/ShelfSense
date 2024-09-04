@@ -1,4 +1,6 @@
-![Library Management Screenshot](images/library.gif)
+# Library
+Responsive website to manage your bookshelf library
+![Library Management Screenshot](images/library1.gif)
 
 
 Library Management Made Easy
@@ -18,7 +20,7 @@ Getting Started
 To get started with this project, simply clone the repository and open the index.html file in your browser.
 
 bash
-git clone https://github.com/Aisha-Umar/ShelfSense.git
+git clone https://github.com/Hailo7ts/Library.git
 cd library-management
 
 Usage:
